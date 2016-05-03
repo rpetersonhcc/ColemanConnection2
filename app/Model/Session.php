@@ -3,8 +3,7 @@
 
 	class Session extends AppModel{
 
-		var $name = 'Session';
-		var $hasAndBelongsToMany = 'Student';
+		public $useTable = 'sessions'; 		
 		
 	}
 

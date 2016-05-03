@@ -51,7 +51,27 @@ class StudentsController extends AppController{
 	}
 
 
+	public function delete_session($id, $student_id) {
 
+
+		// load sessions model
+		$this->loadModel('StudentSession');
+
+		
+		// check if is a get request
+	    if ($this->request->is('get')) {
+	            throw new MethodNotAllowedException();
+	        }
+	    // remove session
+	    if ($this->StudentSession->delete($id)) {
+	            $this->Session->setFlash('The Registered Session has been removed!');
+	        } else {
+	            $this->Session->setFlash('The Registered Session was not removed!');
+	        }
+	    // return to students page
+	    return $this->redirect(array('action' => 'view', $student_id));	    
+
+	}
 
 }
 

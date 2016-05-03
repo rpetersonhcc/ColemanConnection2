@@ -1,6 +1,6 @@
 <?php
 
-class RegisteredSessionsController extends AppController{
+class StudentsSessionsController extends AppController{
 
 	
 
