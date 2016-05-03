@@ -3,7 +3,9 @@
 
 	class Session extends AppModel{
 
-		public $useTable = 'sessions'; 		
+		public $useTable = 'sessions'; 
+
+		
 		
 	}
 

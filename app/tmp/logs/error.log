@@ -1812,3 +1812,75 @@ Stack Trace:
 #3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2016-05-03 19:11:59 Error: Fatal Error (4): syntax error, unexpected ']', expecting ',' or ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/Students/view.ctp, line 24]
+2016-05-03 19:11:59 Error: [FatalErrorException] syntax error, unexpected ']', expecting ',' or ';'
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 24)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 24, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 24, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 20:15:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'StudentsSession.students_session_id' in 'on clause'
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Student...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Student...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1441): DboSource->fetchAll('SELECT `Student...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1292): DboSource->_fetchHasAndBelongsToMany(Object(Session), 'SELECT `Student...', Array, 'StudentSession')
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Session), Object(StudentSession), 'hasAndBelongsTo...', 'StudentSession', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Session), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(53): Model->find('all')
+#9 [internal function]: StudentsController->view('1000')
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-05-03 20:15:55 Error: Fatal Error (64): Cannot redeclare class StudentSession in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Session.php, line 10]
+2016-05-03 20:15:55 Error: [FatalErrorException] Cannot redeclare class StudentSession
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 20:27:35 Error: Fatal Error (4): syntax error, unexpected ':' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/Students/view.ctp, line 8]
+2016-05-03 20:27:35 Error: [FatalErrorException] syntax error, unexpected ':'
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 8, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 8, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 20:32:58 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/Students/register_session.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/Students/register_session.ctp',
+)
+Request URL: /colemanconnection2/students/register_session/5
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-03 20:52:02 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/Students/register_session.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/Students/register_session.ctp',
+)
+Request URL: /colemanconnection2/students/register_session/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}

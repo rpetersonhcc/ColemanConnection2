@@ -39,6 +39,9 @@ class StudentsController extends AppController{
 	}
 
 	public function view($stuID = null) {
+
+		$this->loadModel('Session');
+
 	    if (!$stuID) {
 	        throw new NotFoundException(__('Invalid Student'));
 	        return $this->redirect(array('action' => 'index'));
@@ -46,6 +49,10 @@ class StudentsController extends AppController{
 
 	    $student = $this->Student->find('all', array('conditions' => array('Student.stuID' => $stuID)));
 	    $this->set('student', $student);
+
+	    $sessions = $this->Session->find('all');
+	    $this->set('sessions', $sessions);
+	    
 	 	
 	    
 	}
@@ -72,6 +79,7 @@ class StudentsController extends AppController{
 	    return $this->redirect(array('action' => 'view', $student_id));	    
 
 	}
+	
 
 }
 
