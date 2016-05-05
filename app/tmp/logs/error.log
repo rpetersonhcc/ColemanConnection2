@@ -1884,3 +1884,1617 @@ Stack Trace:
 #3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
 #4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2016-05-03 21:21:41 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 21:21:41 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/studentsSessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:27:10 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 21:27:10 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/studentsSessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:27:27 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentssessionsController.php, line 9]
+2016-05-03 21:27:27 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/studentssessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:27:35 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 21:27:35 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/studentsSessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:29:45 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 21:29:45 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/studentsSessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:31:20 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 21:31:20 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:31:50 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 21:31:50 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:32:17 Error: Fatal Error (1): Call to undefined function alert() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 21:32:17 Error: [FatalErrorException] Call to undefined function alert()
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:33:10 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 21:33:10 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:34:29 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:34:29 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:35:20 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:35:20 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:35:27 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:35:27 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:35:40 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:35:40 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:35:47 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:35:47 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:36:07 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:36:07 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:44:50 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:44:50 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:46:13 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:46:13 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:46:50 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:46:50 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:46:52 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:46:52 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:55:17 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:55:17 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:55:20 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:55:20 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 21:56:23 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/StudentsSessions/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/StudentsSessions/index.ctp',
+)
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-03 21:58:56 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/StudentsSessions/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/StudentsSessions/index.ctp',
+)
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-03 21:59:08 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 21:59:08 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:00:33 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 22:00:33 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:00:57 Error: [MissingTableException] Table sessions_students for model SessionsStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'sessions_students',
+  'class' => 'SessionsStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('sessions_studen...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(872): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(900): Model->__isset('SessionsStudent')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3627): Model->__get('SessionsStudent')
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1754): Model->joinModel('SessionsStudent', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(Session), 'hasAndBelongsTo...', 'Session', Array, Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(Session), 'hasAndBelongsTo...', 'Session', Array, Array, true, Array, 0, Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(50): Model->find('all', Array)
+#11 [internal function]: StudentsController->view('1000')
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-03 22:01:13 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 10]
+2016-05-03 22:01:13 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:02:13 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 22:02:13 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:02:43 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsSessionsController.php, line 9]
+2016-05-03 22:02:43 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:07:27 Error: [MissingControllerException] Controller class StudentsSessionsController could not be found.
+Exception Attributes: array (
+  'class' => 'StudentsSessionsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/students_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-03 22:16:48 Error: [MissingControllerException] Controller class SessionsController could not be found.
+Exception Attributes: array (
+  'class' => 'SessionsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-03 22:17:01 Error: [MissingControllerException] Controller class SessionsController could not be found.
+Exception Attributes: array (
+  'class' => 'SessionsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-03 22:17:06 Error: [MissingControllerException] Controller class SessionsController could not be found.
+Exception Attributes: array (
+  'class' => 'SessionsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-03 22:17:10 Error: [MissingControllerException] Controller class SessionsController could not be found.
+Exception Attributes: array (
+  'class' => 'SessionsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-03 22:17:28 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-03 22:17:28 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:17:38 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-03 22:17:38 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:17:52 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-03 22:17:52 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:18:01 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-03 22:18:01 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:18:29 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-03 22:18:29 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:19:59 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-03 22:19:59 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:24:09 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-03 22:24:09 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:24:34 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-03 22:24:34 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:36:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/js/jquery.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-03 22:38:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/js/jquery.min.js
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-03 22:42:47 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/Students/view.ctp, line 38]
+2016-05-03 22:42:47 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /colemanconnection2/students/view/10656
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 38)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 38, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 38, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:46:51 Error: Fatal Error (4): syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE) in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Session.php, line 8]
+2016-05-03 22:46:51 Error: [FatalErrorException] syntax error, unexpected 'var' (T_VAR), expecting variable (T_VARIABLE)
+Request URL: /colemanconnection2/students/view/10656
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 8, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 8, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-03 22:47:41 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'StudentsSession.session' in 'on clause'
+Request URL: /colemanconnection2/students/view/10656
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Session...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Session...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1441): DboSource->fetchAll('SELECT `Session...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1292): DboSource->_fetchHasAndBelongsToMany(Object(Student), 'SELECT `Session...', Array, 'Session')
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(Session), 'hasAndBelongsTo...', 'Session', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(50): Model->find('all', Array)
+#9 [internal function]: StudentsController->view('10656')
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-05-04 19:16:36 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php, line 53]
+2016-05-04 19:16:36 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 53)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 53, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 53, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 19:41:42 Error: Fatal Error (4): syntax error, unexpected '$name' (T_VARIABLE), expecting function (T_FUNCTION) in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 7]
+2016-05-04 19:41:42 Error: [FatalErrorException] syntax error, unexpected '$name' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 19:52:02 Error: [MissingTableException] Table Session for model Student was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'Session',
+  'class' => 'Student',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('Session')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(55): Model->find('all')
+#4 [internal function]: StudentsController->view('1000')
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2016-05-04 19:59:50 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php, line 55]
+2016-05-04 19:59:50 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 55)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 55, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 55, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:01:37 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-04 20:01:37 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:01:43 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 9]
+2016-05-04 20:01:43 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 9, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 9, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:02:38 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 11]
+2016-05-04 20:02:38 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:03:12 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 11]
+2016-05-04 20:03:12 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:03:17 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php, line 55]
+2016-05-04 20:03:17 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 55)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 55, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 55, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:03:18 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php, line 55]
+2016-05-04 20:03:18 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 55)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 55, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 55, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:03:25 Error: [MissingControllerException] Controller class SessionController could not be found.
+Exception Attributes: array (
+  'class' => 'SessionController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/session
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-04 20:03:28 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 11]
+2016-05-04 20:03:28 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:03:56 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 13]
+2016-05-04 20:03:56 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:24:03 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 13]
+2016-05-04 20:24:03 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:24:11 Error: Fatal Error (1): Call to undefined method SessionComponent::find() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/SessionsController.php, line 13]
+2016-05-04 20:24:11 Error: [FatalErrorException] Call to undefined method SessionComponent::find()
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 20:25:37 Error: [MissingControllerException] Controller class SessionsController could not be found.
+Exception Attributes: array (
+  'class' => 'SessionsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-04 21:33:20 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 14]
+2016-05-04 21:33:20 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /colemanconnection2/program_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 21:33:30 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 14]
+2016-05-04 21:33:30 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /colemanconnection2/program_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 21:33:32 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 14]
+2016-05-04 21:33:32 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /colemanconnection2/program_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 21:35:51 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 14]
+2016-05-04 21:35:51 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/program_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 14, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 14, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 21:37:16 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 13]
+2016-05-04 21:37:16 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/program_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 13, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 13, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 21:41:13 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp',
+)
+Request URL: /colemanconnection2/program_sessions/debug
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 21:41:47 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp',
+)
+Request URL: /colemanconnection2/program_sessions/debug
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 21:42:22 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp',
+)
+Request URL: /colemanconnection2/program_sessions/debug
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 21:42:38 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp',
+)
+Request URL: /colemanconnection2/program_sessions/debug
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 21:42:40 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp',
+)
+Request URL: /colemanconnection2/program_sessions/debug
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 21:43:00 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp',
+)
+Request URL: /colemanconnection2/program_sessions/debug
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 21:43:13 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/debug.ctp',
+)
+Request URL: /colemanconnection2/program_sessions/debug
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 21:43:50 Error: Fatal Error (4): syntax error, unexpected 'endforeach' (T_ENDFOREACH) in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/index.ctp, line 31]
+2016-05-04 21:43:50 Error: [FatalErrorException] syntax error, unexpected 'endforeach' (T_ENDFOREACH)
+Request URL: /colemanconnection2/program_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 31)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 31, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 31, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 21:44:01 Error: Fatal Error (4): syntax error, unexpected 'endforeach' (T_ENDFOREACH) in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/View/ProgramSessions/index.ctp, line 31]
+2016-05-04 21:44:01 Error: [FatalErrorException] syntax error, unexpected 'endforeach' (T_ENDFOREACH)
+Request URL: /colemanconnection2/program_sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 31)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 31, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 31, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 21:56:33 Error: [MissingActionException] Action ProgramSessionsController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProgramSessionsController',
+  'action' => 'add',
+)
+Request URL: /colemanconnection2/program_sessions/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-05-04 22:13:50 Error: Fatal Error (1): Call to a member function find() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php, line 60]
+2016-05-04 22:13:50 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 60)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 60, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 60, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-04 22:21:17 Error: [MissingActionException] Action StudentsController::1() could not be found.
+Exception Attributes: array (
+  'controller' => 'StudentsController',
+  'action' => '1',
+)
+Request URL: /colemanconnection2/students/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-05-04 22:55:42 Error: [NotFoundException] Product not found
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 [internal function]: StudentsController->view('1000')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 22:56:05 Error: [NotFoundException] Product not found
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 [internal function]: StudentsController->view('1000')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 22:56:43 Error: [NotFoundException] Product not found
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 [internal function]: StudentsController->view('1000')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-04 23:01:24 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ProgramSession.student_id' in 'field list'
+Request URL: /colemanconnection2/students/view/2
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Program...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Program...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1418): DboSource->fetchAll('SELECT `Program...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1254): DboSource->_fetchHasMany(Object(Student), 'SELECT `Program...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'ProgramSession', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(54): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(54): Student->findById('2')
+#12 [internal function]: StudentsController->view('2')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-04 23:01:34 Error: [MissingTableException] Table program__sessions for model Program_Session was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'program__sessions',
+  'class' => 'Program_Session',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/2
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('program__sessio...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'Program_Session', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'Program_Session', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'Program_Session', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(54): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(54): Student->findById('2')
+#12 [internal function]: StudentsController->view('2')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-04 23:01:47 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'programSession.student_id' in 'field list'
+Request URL: /colemanconnection2/students/view/2
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `program...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `program...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1418): DboSource->fetchAll('SELECT `program...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1254): DboSource->_fetchHasMany(Object(Student), 'SELECT `program...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'programSession', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(54): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(54): Student->findById('2')
+#12 [internal function]: StudentsController->view('2')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-04 23:02:03 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ProgramSessions.student_id' in 'field list'
+Request URL: /colemanconnection2/students/view/2
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Program...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Program...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1418): DboSource->fetchAll('SELECT `Program...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1254): DboSource->_fetchHasMany(Object(Student), 'SELECT `Program...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'ProgramSessions', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(54): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(54): Student->findById('2')
+#12 [internal function]: StudentsController->view('2')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-05 17:25:41 Error: [MissingControllerException] Controller class SessionsController could not be found.
+Exception Attributes: array (
+  'class' => 'SessionsController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/sessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-05 17:25:54 Error: [MissingActionException] Action ProgramSessionsController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProgramSessionsController',
+  'action' => 'add',
+)
+Request URL: /colemanconnection2/programSessions/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-05-05 17:26:17 Error: [MissingActionException] Action ProgramSessionsController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'ProgramSessionsController',
+  'action' => 'add',
+)
+Request URL: /colemanconnection2/programSessions/add
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-05-05 17:37:15 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'
+Request URL: /colemanconnection2/programSessions
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Program...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Program...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Program...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(AppModel), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php(20): Model->find('all', Array)
+#7 [internal function]: ProgramSessionsController->index()
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProgramSessionsController), Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-05-05 18:22:14 Error: [NotFoundException] Product not found
+Request URL: /colemanconnection2/students/view/555
+Stack Trace:
+#0 [internal function]: StudentsController->view('555')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-05 18:27:04 Error: [NotFoundException] Product not found
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 [internal function]: StudentsController->view('1000')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-05 18:29:05 Error: [NotFoundException] STUDENT NOT FOUND
+Request URL: /colemanconnection2/students/view/1000
+Stack Trace:
+#0 [internal function]: StudentsController->view('1000')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-05 18:29:10 Error: [NotFoundException] ID NOT FOUND
+Request URL: /colemanconnection2/students/view/
+Stack Trace:
+#0 [internal function]: StudentsController->view()
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-05 21:03:41 Error: Fatal Error (1): Call to a member function success() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 70]
+2016-05-05 21:03:41 Error: [FatalErrorException] Call to a member function success() on null
+Request URL: /colemanconnection2/programSessions/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 70)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 70, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 70, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 21:04:10 Error: Fatal Error (1): Call to a member function success() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 70]
+2016-05-05 21:04:10 Error: [FatalErrorException] Call to a member function success() on null
+Request URL: /colemanconnection2/programSessions/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 70)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 70, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 70, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 21:06:07 Error: Fatal Error (1): Call to a member function success() on null in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 68]
+2016-05-05 21:06:07 Error: [FatalErrorException] Call to a member function success() on null
+Request URL: /colemanconnection2/programSessions/edit/5
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/X...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/X...', 68, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/X...', 68, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 21:06:58 Error: Fatal Error (1): Call to undefined method SessionComponent::success() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 68]
+2016-05-05 21:06:58 Error: [FatalErrorException] Call to undefined method SessionComponent::success()
+Request URL: /colemanconnection2/programSessions/edit/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 68, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 68, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 21:07:13 Error: Fatal Error (1): Call to undefined method SessionComponent::success() in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/ProgramSessionsController.php, line 68]
+2016-05-05 21:07:13 Error: [FatalErrorException] Call to undefined method SessionComponent::success()
+Request URL: /colemanconnection2/programSessions/edit/5
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', '/Applications/X...', 68)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', '/Applications/X...', 68, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', '/Applications/X...', 68, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 21:33:56 Error: [MissingControllerException] Controller class DeleteController could not be found.
+Exception Attributes: array (
+  'class' => 'DeleteController',
+  'plugin' => NULL,
+)
+Request URL: /colemanconnection2/delete
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-05 21:34:07 Error: [NotFoundException] ID NOT FOUND
+Request URL: /colemanconnection2/program_sessions/delete
+Stack Trace:
+#0 [internal function]: ProgramSessionsController->delete()
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProgramSessionsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-05 21:34:16 Error: [NotFoundException] ID NOT FOUND
+Request URL: /colemanconnection2/program_sessions/delete/900
+Stack Trace:
+#0 [internal function]: ProgramSessionsController->delete('900')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ProgramSessionsController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ProgramSessionsController), Object(CakeRequest))
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-05-05 22:09:24 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Role.student_id' in 'on clause'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Student...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Student...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Student...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(21): Controller->paginate()
+#9 [internal function]: StudentsController->index()
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-05-05 22:14:51 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Role.role' in 'on clause'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Student...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Student...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Student...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(21): Controller->paginate()
+#9 [internal function]: StudentsController->index()
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-05-05 22:16:11 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 10]
+2016-05-05 22:16:11 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 22:18:30 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 10]
+2016-05-05 22:18:30 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 22:19:38 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Role.role' in 'on clause'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Student...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Student...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Student...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(21): Controller->paginate()
+#9 [internal function]: StudentsController->index()
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-05-05 22:38:27 Error: [MissingTableException] Table session_students for model SessionStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'SessionStudent', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#12 [internal function]: StudentsController->view('1')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-05 22:38:48 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Student.stuID' in 'where clause'
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Session...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Session...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1329): DboSource->fetchAll('SELECT `Session...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent', Array, Array, true, Array, 0, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#11 [internal function]: StudentsController->view('1')
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-05 22:39:09 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Students.stuID' in 'where clause'
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Session...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Session...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1329): DboSource->fetchAll('SELECT `Session...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent', Array, Array, true, Array, 0, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#11 [internal function]: StudentsController->view('1')
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-05 22:39:28 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Student.stuID' in 'where clause'
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Session...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Session...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1329): DboSource->fetchAll('SELECT `Session...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent', Array, Array, true, Array, 0, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#11 [internal function]: StudentsController->view('1')
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-05 22:39:42 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Student.stuID' in 'where clause'
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Session...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Session...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1329): DboSource->fetchAll('SELECT `Session...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent...', Array, Array, true, Array, 0, Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#11 [internal function]: StudentsController->view('1')
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-05 22:40:06 Error: [MissingTableException] Table session_students for model SessionStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'SessionStudent', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#12 [internal function]: StudentsController->view('1')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-05 22:40:17 Error: [MissingTableException] Table session_students for model SessionsStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionsStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'SessionsStudent', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#12 [internal function]: StudentsController->view('1')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-05 22:40:26 Error: [MissingTableException] Table session_students for model SessionStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'SessionStudent', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#12 [internal function]: StudentsController->view('1')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-05 22:40:36 Error: [MissingTableException] Table session_students for model SessionzStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionzStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'SessionzStudent', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'SessionzStudent', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionzStudent', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#12 [internal function]: StudentsController->view('1')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-05 22:41:08 Error: [MissingTableException] Table session_students for model SessionsStudents was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionsStudents',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'SessionsStudent...', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent...', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent...', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#12 [internal function]: StudentsController->view('1')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-05 22:43:07 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 15]
+2016-05-05 22:43:07 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 15, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 15, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 22:43:38 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 17]
+2016-05-05 22:43:38 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 22:43:53 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 17]
+2016-05-05 22:43:53 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 22:44:09 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 16]
+2016-05-05 22:44:09 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 16, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 16, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 22:44:35 Error: [MissingTableException] Table session_students for model SessionStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students/view/1
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'SessionStudent', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(597): Model->find('first', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(808): DboSource->query('findById', Array, Object(Student))
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Model->__call('findById', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(57): Student->findById('1')
+#12 [internal function]: StudentsController->view('1')
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#16 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#17 {main}
+2016-05-05 22:46:55 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 18]
+2016-05-05 22:46:55 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 18, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 18, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 22:47:31 Error: [MissingTableException] Table session_students for model SessionStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(AppModel), 'SessionStudent', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionStudent', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate(NULL, Array, Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(21): Controller->paginate()
+#11 [internal function]: StudentsController->index()
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-05 22:49:00 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Student.stuID' in 'where clause'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Session...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Session...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1418): DboSource->fetchAll('SELECT `Session...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1254): DboSource->_fetchHasMany(Object(Student), 'SELECT `Session...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent...', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate(NULL, Array, Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(21): Controller->paginate()
+#11 [internal function]: StudentsController->index()
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-05 22:49:07 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Students.stuID' in 'where clause'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Session...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Session...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1418): DboSource->fetchAll('SELECT `Session...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1254): DboSource->_fetchHasMany(Object(Student), 'SELECT `Session...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(AppModel), 'hasMany', 'SessionsStudent...', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate(NULL, Array, Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(21): Controller->paginate()
+#11 [internal function]: StudentsController->index()
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-05 22:55:46 Error: [MissingTableException] Table session_students for model SessionStudent was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'session_students',
+  'class' => 'SessionStudent',
+  'ds' => 'default',
+)
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(3551): Model->setSource('session_student...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(1369): Model->getDataSource()
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(2491): Model->schema()
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1732): DboSource->fields(Object(SessionStudent), 'SessionStudent', '')
+#4 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1233): DboSource->generateAssociationQuery(Object(Student), Object(SessionStudent), 'hasMany', 'SessionStudent', Array, Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Datasource/DboSource.php(1137): DboSource->queryAssociation(Object(Student), Object(SessionStudent), 'hasMany', 'SessionStudent', Array, Array, true, Array, 0, Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Student), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Model/Model.php(2919): Model->_readDataSource('all', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(1080): PaginatorComponent->paginate(NULL, Array, Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Controller/StudentsController.php(21): Controller->paginate()
+#11 [internal function]: StudentsController->index()
+#12 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(StudentsController), Array)
+#13 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#14 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(StudentsController), Object(CakeRequest))
+#15 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2016-05-05 23:06:30 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 10]
+2016-05-05 23:06:30 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 10, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 10, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-05 23:08:40 Error: Fatal Error (4): syntax error, unexpected '=', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/app/Model/Student.php, line 8]
+2016-05-05 23:08:40 Error: [FatalErrorException] syntax error, unexpected '=', expecting ')'
+Request URL: /colemanconnection2/students
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 8, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 8, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/colemanconnection2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

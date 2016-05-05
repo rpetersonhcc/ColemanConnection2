@@ -1,17 +1,15 @@
 <?php
 
+	App::uses('AppModel', 'Model');
+
 	class Student extends AppModel{
 		
-		var $name = 'Student';
-		var $primaryKey = 'stuID';
-		var $hasAndBelongsToMany = array(
-		     'Session' =>
-		         array(
-		          'className'         => 'Session',
-		             'joinTable'             => 'students_sessions',
-		             'foreignKey'            => 'student_id'
-		         )
-		     );
+		public $hasOne = array(
+			'Role' => array(
+				'className' => 'Role',
+				'foreignKey' => false,
+				'conditions' => array(
+					'Student.role = Role.id')));		
 		
 	}
 

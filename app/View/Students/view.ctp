@@ -1,45 +1,33 @@
 <div class="row">
 	<h1>
-		Welcome, <?php echo $student[0]['Student']['firstname']; ?> <?php echo $student[0]['Student']['lastname']; ?>
+		Welcome, <?php echo $student['Student']['firstname']; ?> <?php echo $student['Student']['firstname']; ?>
 	</h1>
 </div>
 <div class="row">
-	<h1>Registered Programs</h1>
-	<?php $i=0; foreach($student[0]['Session'] as $registeredSessions): ?>
-	<p>
-		Start Date: <?php echo date('F m Y g:i A', strtotime($registeredSessions['start_date'])); ?>
-		<br />
-		Program Name: <?php echo $registeredSessions['programName']; ?>
-		<br />
-		<?php echo $this->Form->postLink('Remove', array('action' => 'delete_session', $registeredSessions['StudentsSession']['id'], $registeredSessions['StudentsSession']['student_id']), array('confirm' => 'Are you sure?')); ?>  
-	</p>
-	
-</div>
-
-
-<div class="row">
-	<h1>Available Sessions</h1>
+	<h1>Student Information</h1>
 	<table>
 		<head>
 			<tr>
-				<th>Date</th>
-				<th>Time</th>
-				<th>Capacity</th>
-				<th>Register</th>
+				<th>Student ID</th>
+				<th>First Name</th>
+				<th>Last Name</th>
+				<th>Email</th>
+				
 			</tr>
 		</head>
-		<tbody>
-			<?php foreach($sessions as $session): ?>
+		<tbody>			
 			<tr>
-				<td><?php echo date('F d Y', strtotime($session['Session']['start_date']));?></td>
-				<td><?php echo date('g:i A', strtotime($session['Session']['start_date']));?></td>
-				<td>50</td>
-				<td>
-				<?php echo $this->Form->postLink('Register', array('action'=>'register_session',$registeredSessions['StudentsSession']['student_id']), array('class'=>'btn')); ?>
-				</td>
+				<td><?php echo $student['Student']['stuID']; ?></td>
+				<td><?php echo $student['Student']['firstname']; ?></td>
+				<td><?php echo $student['Student']['lastname']; ?></td>
+				<td><?php echo $student['Student']['email']; ?></td>
+				
 			</tr>
-			<?php endforeach; ?>
-		</tbody>		
+		</tbody>
 	</table>
-		<?php $i++; endforeach;?>	
+	<div class="actions">
+		<?php echo $this->Html->link(__('Back to Students'), array('action' => 'index')); ?>
+	</div>
 </div>
+
+

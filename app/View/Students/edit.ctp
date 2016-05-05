@@ -1,7 +1,7 @@
 <!-- File: /app/View/Students/edit.ctp -->
 
 
-<h1>Edit</h1>
+<h1>Edit Student</h1>
 <?php
 echo $this->Form->create('Student');
 echo $this->Form->input('firstname');
